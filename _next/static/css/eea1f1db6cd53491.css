@@ -173,16 +173,16 @@ display: flex;
     justify-content: center;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.74543058.png);
+    background-image: url(/04-zkapp-browser-ui/_next/static/media/homepageImg.513d2d53.png);
     position: absolute;
     width: 600px;
-    height: 450px;
+    height: 500px;
     background-repeat: no-repeat;
 }
 	
 .Home_banner__WnS5R {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.5a45e003.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/banner.c92e7eb8.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 420px;
